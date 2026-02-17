@@ -1,0 +1,25 @@
+.title{
+    background-color: aquamarine;
+}
+
+.header{
+    background-color: rgb(20, 30, 181);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 100%;
+    
+}
+
+.portada{
+   text-align: center;
+   font-size: small;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
