@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.header{
+  padding: 20px;
+  color: aliceblue;
+  font-size: large;
+  text-align: center;
+  background: linear-gradient(135deg, rgb(5, 40, 144) 0%, rgb(5, 111, 149) 100%)
+  /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+  
+}
+
